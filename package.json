@@ -1,0 +1,26 @@
+{
+  "name": "vm_unit-test",
+  "version": "1.0.0",
+  "description": "Jest intro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILLYAKO/unit-testing.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "illya <ilhaifa@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILLYAKO/unit-testing/issues"
+  },
+  "homepage": "https://github.com/ILLYAKO/unit-testing#readme"
+}
