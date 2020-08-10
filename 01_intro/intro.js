@@ -11,7 +11,8 @@ function expect(value) {
 }
 
 const sum = (a, b) => a + b;
+
 const nativeNull = () => null;
-module.export = { sum, nativeNull };
+module.exports = { sum, nativeNull };
 //console.log(sum(41, 1));
 //expect(sum(41, 1)).toBe(42);
